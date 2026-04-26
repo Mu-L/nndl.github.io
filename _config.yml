@@ -1,0 +1,15 @@
+title: 神经网络与深度学习
+description: 邱锡鹏《神经网络与深度学习》第二版主页
+author: 邱锡鹏
+url: https://nndl.github.io
+
+markdown: kramdown
+permalink: pretty
+
+exclude:
+  - README.md
+  - Gemfile
+  - Gemfile.lock
+  - vendor/
+  - md/
+  - old-chap/
